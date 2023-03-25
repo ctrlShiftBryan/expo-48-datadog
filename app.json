@@ -34,5 +34,8 @@
         "projectId": "58b3c284-07e0-44e2-a431-96cd543d1d4d"
       }
     }
-  }
+  },
+  "plugins": [
+    "expo-datadog"
+  ]
 }

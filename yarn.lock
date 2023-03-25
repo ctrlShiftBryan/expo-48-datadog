@@ -1093,6 +1093,11 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
+"@datadog/mobile-react-native@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@datadog/mobile-react-native/-/mobile-react-native-1.4.0.tgz#cd3d4af9edfe3b1bddff0871a825034e2c24d7fc"
+  integrity sha512-reeovnVHtz0SMtTxFrF2Th1l0pUhqZXRtmVvPzndSlp6KqGA9BccgNc36DLm/AhY30CEOa8bGVzzTw7KRAD6mA==
+
 "@expo/bunyan@4.0.0", "@expo/bunyan@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@expo/bunyan/-/bunyan-4.0.0.tgz#be0c1de943c7987a9fbd309ea0b1acd605890c7b"
@@ -3725,6 +3730,11 @@ expo-constants@~14.2.0, expo-constants@~14.2.1:
   dependencies:
     "@expo/config" "~8.0.0"
     uuid "^3.3.2"
+
+expo-datadog@^48.0.0:
+  version "48.0.0"
+  resolved "https://registry.yarnpkg.com/expo-datadog/-/expo-datadog-48.0.0.tgz#14f9f62088a91b1de6fc16fd6a76e750f45c0566"
+  integrity sha512-QHcgjhYoF+A56OGs39BZlEajcVZVKOwsX0rUjXN2/1uK7fXzzcH7U71lxpG3CPbe0MRRr44jCHMh7bogbqQvxg==
 
 expo-file-system@~15.2.0, expo-file-system@~15.2.2:
   version "15.2.2"

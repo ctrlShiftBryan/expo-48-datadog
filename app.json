@@ -16,7 +16,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bryanarendt.router48"
     },
     "android": {
       "adaptiveIcon": {
@@ -27,6 +28,11 @@
     "web": {
       "bundler": "metro",
       "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "58b3c284-07e0-44e2-a431-96cd543d1d4d"
+      }
     }
   }
 }
